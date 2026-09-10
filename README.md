@@ -51,5 +51,5 @@ images/         Photos and the gallery video
 
 ## Deployment
 
-The site is deployed with GitHub Pages via the workflow in
-`.github/workflows/deploy.yml` — every push to `main` publishes the latest version.
+Hosted on **GitHub Pages** — Settings &rarr; Pages &rarr; Source: *Deploy from a branch*,
+branch `main`, folder `/ (root)`. Every push to `main` republishes the site.
